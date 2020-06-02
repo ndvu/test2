@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("asd");
 		System.out.println("branch1");
 		System.out.println("branch1");
+		System.out.println("branch1");
 	}
 
 }
