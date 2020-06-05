@@ -25,6 +25,7 @@ public class Test {
 		System.out.println("fix1");
 		System.out.println("branch1");
 		System.out.println("branch1");
+		System.out.println("master");
 	}
 
 }
