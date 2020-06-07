@@ -48,6 +48,7 @@ public class Test {
 		System.out.println("master");
 		System.out.println("master");
 		System.out.println("feature1");
+		System.out.println("feature2");
 	}
 
 }
