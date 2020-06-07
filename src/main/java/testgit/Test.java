@@ -44,6 +44,7 @@ public class Test {
 		System.out.println("4");
 		System.out.println("master");
 		System.out.println("rebase");
+		System.out.println("feature3");
 	}
 
 }
