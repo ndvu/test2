@@ -43,7 +43,10 @@ public class Test {
 		System.out.println("3");
 		System.out.println("4");
 		System.out.println("master");
+<<<<<<< HEAD
 		System.out.println("rebase");
+=======
+>>>>>>> branch 'master' of https://github.com/ndvu/test2.git
 	}
 
 }
