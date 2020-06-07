@@ -52,6 +52,7 @@ public class Test {
 		System.out.println("m");
 		System.out.println("master");
 		System.out.println("master");
+		System.out.println("master");
 	}
 
 }
