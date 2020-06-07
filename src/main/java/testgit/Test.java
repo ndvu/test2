@@ -39,6 +39,7 @@ public class Test {
 		System.out.println("master1");
 		System.out.println("master2");
 		System.out.println("1");
+		System.out.println("2");
 	}
 
 }
