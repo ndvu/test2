@@ -15,6 +15,7 @@ public class Test1 {
 		System.out.println("master");
 		System.out.println("feature2");
 		System.out.println("master");
+		System.out.println("master");
 	}
 
 }
