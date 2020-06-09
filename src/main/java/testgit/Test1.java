@@ -18,6 +18,7 @@ public class Test1 {
 		System.out.println("master");
 		System.out.println("master");
 		System.out.println("masterr");
+		System.out.println("masterr");
 	}
 
 }
